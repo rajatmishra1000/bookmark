@@ -1,2 +1,2 @@
 # bookmark
-A very simple chrome extension to store bookmarks.
+A very simple chrome extension to save bookmark.
