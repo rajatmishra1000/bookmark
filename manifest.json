@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Bookmark App",
+    "description": "This extension saves and stores bookmark in your Local storage",
+    "author": "Rajat Mishra",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

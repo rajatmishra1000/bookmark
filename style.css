@@ -1,0 +1,27 @@
+* {
+    font-family: 'Mulish', sans-serif;
+}
+
+body {
+    background:  #994949;
+    box-sizing: border-box;
+    min-width: 400px;
+    padding: 20px;
+}
+
+ul {
+    padding: 5px;
+    overflow: hidden;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+a:hover {
+    color: rgb(245, 242, 59);
+}
