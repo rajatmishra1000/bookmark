@@ -1,4 +1,4 @@
-# bookmark
+# Bookmark Chrome Extension
 A very simple chrome extension to save bookmark.
 
 Installation steps:-
